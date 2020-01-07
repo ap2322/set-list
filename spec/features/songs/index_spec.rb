@@ -1,3 +1,4 @@
+require 'pry'
 RSpec.describe 'song index worklow' do
   context 'as a visitor' do
     it 'should show all song content' do
